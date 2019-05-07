@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_logout"
+          android:title="退出" />
+    <item android:id="@+id/action_history"
+        android:title="历史账单" />
+    <item android:id="@+id/action_unbind"
+        android:title="解除绑定权限" />
+</menu>
+
+
